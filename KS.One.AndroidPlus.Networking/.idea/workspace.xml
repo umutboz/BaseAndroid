@@ -10,50 +10,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8080ab1b-cf94-4cec-a79f-02af299f75c3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/bl/BaseBL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/bl/NotificationBL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/bl/UIServiceCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/ConstantsDB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/DatabaseHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/AlterDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/AndroidLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/BaseDbDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/BaseModelTypeConverterDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ColumnDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/DbOperationsDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/DbQueryDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/DbWriterDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ErrorType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/KSException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/OfflineDbDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ReflectionHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ScriptGeneratorDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/TableDAL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/notication/NotificationDal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/basemodels/DavaresServiceErrorModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/basemodels/DavaresServiceModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/LoginRequestModel2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/NewInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/NotificationInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/UserInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/sl/DavareSL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/sl/DavaresNetworkException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/ui/MainActivity.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-29-09-02-57-564.rawproto" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-29-09-03-11-409.rawproto" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/bl/BaseBL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/bl/BaseBL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/bl/NotificationBL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/bl/NotificationBL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/bl/UIServiceCallback.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/bl/UIServiceCallback.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/ConstantsDB.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/ConstantsDB.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/DatabaseHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/DatabaseHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/AlterDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/AlterDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/AndroidLogger.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/AndroidLogger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/BaseDbDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/BaseDbDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/BaseModelTypeConverterDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/BaseModelTypeConverterDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ColumnDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/ColumnDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/DbOperationsDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/DbOperationsDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/DbQueryDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/DbQueryDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/DbWriterDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/DbWriterDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ErrorType.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/ErrorType.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/KSException.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/KSException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/OfflineDbDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/OfflineDbDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ReflectionHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/ReflectionHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/ScriptGeneratorDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/ScriptGeneratorDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/base/TableDAL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/base/TableDAL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/dal/notication/NotificationDal.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/dal/notication/NotificationDal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/basemodels/DavaresServiceErrorModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/model/basemodels/DavaresServiceErrorModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/basemodels/DavaresServiceModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/model/basemodels/DavaresServiceModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/LoginRequestModel2.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/model/datamodels/LoginRequestModel2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/NewInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/model/datamodels/NewInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/NotificationInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/model/datamodels/NotificationInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/model/datamodels/UserInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/model/datamodels/UserInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/sl/DavareSL.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/sl/DavareSL.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/sl/DavaresNetworkException.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/sl/DavaresNetworkException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/WFM/ui/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/ui/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-26.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-26.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/network/network.iml" afterPath="$PROJECT_DIR$/network/network.iml" />
     </list>
     <ignored path="KS.One.AndroidPlus.Networking.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -125,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider editor-type-id="android-manifest">
             <state />
@@ -3561,14 +3553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/network/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -3592,14 +3576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kocsistem/ksoneandroidplusnetworking/ui/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -3618,6 +3594,22 @@
           <folding>
             <element signature="e#351#369#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
