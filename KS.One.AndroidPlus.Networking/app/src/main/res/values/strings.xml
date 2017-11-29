@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KS.One.AndroidPlus.Networking</string>
+    <string name="generic_server_down">Sunucuya ulaşılamıyor</string>
+    <string name="no_internet">İnternet bağlantısı bulunamadı</string>
+    <string name="generic_error">Bağlantı hatası oluştu</string>
+    <string name="bad_request">Bad request</string>
+    <string name="not_found">Not found</string>
+
+
+    <string name="db_insert_error">Veri kaydedilirken bir hata oluştu</string>
+    <string name="db_delete_error">Veri silinirken bir hata oluştu</string>
+    <string name="db_update_error">Veri güncelleniken bir hata oluştu</string>
+    <string name="db_list_error">Veriler listelenirken bir hata oluştu</string>
+    <string name="db_cursorToInfo_error">Verilerin okunması sırasında bir hata oluştu</string>
+
+
+</resources>
