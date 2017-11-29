@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KS.One.AndroidPlus.Networking</string>
+    <string name="app_name">Networking</string>
     <string name="generic_server_down">Sunucuya ulaşılamıyor</string>
     <string name="no_internet">İnternet bağlantısı bulunamadı</string>
     <string name="generic_error">Bağlantı hatası oluştu</string>
