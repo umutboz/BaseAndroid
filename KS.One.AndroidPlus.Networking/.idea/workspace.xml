@@ -6,12 +6,12 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-29-09-03-11-409.rawproto" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-26.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/network/build.gradle" afterPath="$PROJECT_DIR$/network/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/network/network.iml" afterPath="$PROJECT_DIR$/network/network.iml" />
     </list>
     <ignored path="KS.One.AndroidPlus.Networking.iws" />
@@ -47,8 +47,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/network/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -57,14 +57,14 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="63" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="63" />
+            <state relative-caret-position="0">
+              <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -293,11 +293,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="install" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
@@ -1727,11 +1722,6 @@
                 <option name="name" value="compileDebugJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/network" />
-                <option name="name" value="install" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/network" />
                 <option name="name" value="buildNeeded" />
@@ -2264,7 +2254,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6047762923000" />
+        <entry key="$PROJECT_DIR$" value="6047770210000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2281,8 +2271,6 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.3.3/65788fb3bedcc2f22c9658eb0772d7a189caefec/gradle-2.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.3.3/f73080687a2488471a668ee37df38aa19a63e5da/gradle-2.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.5/2c1a13fd33e662909442ce13ff669e894f225ae0/android-maven-gradle-plugin-1.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.5/f98b3f3c79c3b918043d636f8abbf59f937306b2/android-maven-gradle-plugin-1.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.3.3/2a48149dd915a5359235f38302600a0b3e3f6753/gradle-core-2.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.3.3/2e96c3750f040fb0e48f4346c29b3924fe0dae08/gradle-core-2.3.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.3.3/7de57042a601aa94fabaeebf82a7e707dfa3da93/builder-2.3.3-sources.jar" />
@@ -2378,8 +2366,6 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.3.3/65788fb3bedcc2f22c9658eb0772d7a189caefec/gradle-2.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.3.3/f73080687a2488471a668ee37df38aa19a63e5da/gradle-2.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.5/2c1a13fd33e662909442ce13ff669e894f225ae0/android-maven-gradle-plugin-1.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.5/f98b3f3c79c3b918043d636f8abbf59f937306b2/android-maven-gradle-plugin-1.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.3.3/2a48149dd915a5359235f38302600a0b3e3f6753/gradle-core-2.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.3.3/2e96c3750f040fb0e48f4346c29b3924fe0dae08/gradle-core-2.3.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.3.3/7de57042a601aa94fabaeebf82a7e707dfa3da93/builder-2.3.3-sources.jar" />
@@ -2475,8 +2461,6 @@
                           <list>
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.3.3/65788fb3bedcc2f22c9658eb0772d7a189caefec/gradle-2.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.3.3/f73080687a2488471a668ee37df38aa19a63e5da/gradle-2.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.5/2c1a13fd33e662909442ce13ff669e894f225ae0/android-maven-gradle-plugin-1.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dcendents/android-maven-gradle-plugin/1.5/f98b3f3c79c3b918043d636f8abbf59f937306b2/android-maven-gradle-plugin-1.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.3.3/2a48149dd915a5359235f38302600a0b3e3f6753/gradle-core-2.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.3.3/2e96c3750f040fb0e48f4346c29b3924fe0dae08/gradle-core-2.3.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.3.3/7de57042a601aa94fabaeebf82a7e707dfa3da93/builder-2.3.3-sources.jar" />
@@ -2722,8 +2706,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gradle.properties" />
-        <option value="$PROJECT_DIR$/network/build.gradle" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/network/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
@@ -3284,34 +3269,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network/build.gradle">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="63" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="63" />
+        <state relative-caret-position="0">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+    <entry file="file://$PROJECT_DIR$/network/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+        <state relative-caret-position="0">
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
